@@ -7,9 +7,7 @@ int main()
 {
     std::cout << "Hello VS Git!\n";
 
-    std::cout << "Hello NewBranch!?\n";
-
-    std::cout << "Hello NewBranch?\n";
+    std::cout << "Clone changed\n";
 
 }
 
